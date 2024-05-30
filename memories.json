@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "content": "This is the first memory"
+  },
+  {
+    "id": 2,
+    "content": "This is the another memory"
+  },
+  {
+    "id": 3,
+    "content": "Some more memories"
+  }
+]
